@@ -9,6 +9,6 @@ public class TestThrow {
 
     public static void main(String args[]) {
         validate(15);
-        System.out.println("If you see this, something went wrong.");
+        System.out.println("If you see this then no error occured.");
     }
 }
